@@ -34,9 +34,9 @@ Below are a few screenshots of the web app.
 
 ![](https://github.com/JPL13/disaster-response-pipeline/blob/master/image/category.png)
 
-![](https://github.com/JPL13/disaster-response-pipeline/blob/master/image/search-bar.png)
+![](https://github.com/JPL13/disaster-response-pipeline/blob/master/image/search_bar.png)
 
-![](https://github.com/JPL13/disaster-response-pipeline/blob/master/image/search-result.png)
+![](https://github.com/JPL13/disaster-response-pipeline/blob/master/image/search_result.png)
 
 
 ### Instructions:
